@@ -1,7 +1,7 @@
 <?php
 
-$clientId = 'IUKouaKAuPacdmnexAFXjGtd';
-$clientSecret = 'BkckXc9nYKwqnMCKFZmPyVluq2HasBG8';
+$clientId = 'clientId';
+$clientSecret = 'clientSecret';
 $redirectUri = 'http://localhost';
 $domain = 'http://localhost';
 
